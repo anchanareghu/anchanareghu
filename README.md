@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anchanareghu
-- 👀 I’m interested in Java programming 
-- 🌱 I’m currently learning Java and Selenium 
+- 👀 I’m interested in Frontend development
+- 🌱 I’m good in java, HTML & CSS
 - 📬 anchanarasar11@gmail.com
 
 
