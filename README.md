@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anchanareghu
-- 👀 I’m interested in Web development
-- 🌱 I’m good in java, HTML & CSS
-- 📬 anchanarasar11@gmail.com
+- 👀 I’m interested in Android development
+- 🌱 I’m good in java, Android.
+- 📬 anchanareghu20@gmail.com
 
 
 
