@@ -18,7 +18,7 @@ Feel free to check out my [GitHub profile](https://github.com/anchanareghu) for 
 
 ## Looking for Opportunities
 
-I am currently open to exciting opportunities where I can contribute my skills and continue to grow as a developer. Whether it's freelance projects, internships, or full-time positions, I'm eager to explore new opportunities and challenges.
+I am currently open to exciting opportunities where I can contribute my skills and continue to grow as a developer. Whether it's internships, or full-time positions, I'm eager to explore new opportunities and challenges.
 
 
 
