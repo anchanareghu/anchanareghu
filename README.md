@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! I'm Anchana, a passionate developer with a keen interest in Android app development. I specialize in crafting delightful user experiences through clean and efficient code. With a solid foundation in Android development and a knack for problem-solving, I strive to create innovative solutions that make a difference.
+Hi! I'm Anchana, a passionate developer with a keen interest in Android app development using Java. I specialize in crafting delightful user experiences through clean and efficient code. With a solid foundation in Android development and a knack for problem-solving, I strive to create innovative solutions that make a difference.
 
 ## Skills
 
