@@ -16,7 +16,7 @@ I am currently open to exciting opportunities where I can contribute my skills a
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anchana-reghu-051790228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchana-reghu" height="30" width="40" /></a> <a href="anchanareghu20@gmail.com" target="blank"><img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="anchana-reghu" height="40" width="38" /></a>
+<a href="anchanareghu20@gmail.com" target="blank"><img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="anchana-reghu" height="40" width="38" /></a> <a href="https://linkedin.com/in/anchana-reghu-051790228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchana-reghu" height="30" width="40" /></a>
 </p>
 
 
