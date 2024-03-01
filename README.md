@@ -20,7 +20,7 @@ I am currently open to exciting opportunities where I can contribute my skills a
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchanareghu&show_icons=true&locale=en&layout=compact" alt="anchanareghu" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchanareghu&show_icons=true&locale=en&layout=compact" alt="anchanareghu" /></p>
 
 
 
