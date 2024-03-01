@@ -10,15 +10,15 @@ Hi! I'm Anchana, a passionate developer with a keen interest in Android app deve
 
 Feel free to check out my [GitHub profile](https://github.com/anchanareghu) for projects.
 
-
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anchana-reghu-051790228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchana-reghu" height="30" width="40" /></a>
-</p>
-
 ## Looking for Opportunities
 
 I am currently open to exciting opportunities where I can contribute my skills and continue to grow as a developer. Whether it's internships, or full-time positions, I'm eager to explore new opportunities and challenges.
+
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anchana-reghu-051790228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchana-reghu" height="30" width="40" /></a> <a href="anchanareghu20@gmail.com" target="blank"><img align="center" src = "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="anchana-reghu" height="40" width="38" /></a>
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchanareghu&show_icons=true&locale=en&layout=compact" alt="anchanareghu" /></p>
 
