@@ -14,7 +14,7 @@ Feel free to check out my [GitHub profile](https://github.com/anchanareghu) for 
 ## Contact Me
 
 - **Email:** anchanareghu20@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/anchana-reghu-051790228/)
+- **LinkedIn:** [anchana-reghu-051790228](https://www.linkedin.com/in/anchana-reghu-051790228/)
 
 ## Looking for Opportunities
 
