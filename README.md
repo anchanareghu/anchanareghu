@@ -10,17 +10,17 @@ Hi! I'm Anchana, a passionate developer with a keen interest in Android app deve
 
 Feel free to check out my [GitHub profile](https://github.com/anchanareghu) for projects.
 
-## Contact Me
-<img src="https://github.com/anchanareghu/anchanareghu/assets/143755659/a14a6885-37c6-4984-b9f6-e1dc58cf738d" alt="Linkedin"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-- **Email:** anchanareghu20@gmail.com
-- **LinkedIn:** [anchana-reghu-051790228](https://www.linkedin.com/in/anchana-reghu-051790228/)
+
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anchana-reghu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchana-reghu" height="30" width="40" /></a>
+</p>
 
 ## Looking for Opportunities
 
 I am currently open to exciting opportunities where I can contribute my skills and continue to grow as a developer. Whether it's internships, or full-time positions, I'm eager to explore new opportunities and challenges.
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchanareghu&show_icons=true&locale=en&layout=compact" alt="anchanareghu" /></p>
 
 
 
