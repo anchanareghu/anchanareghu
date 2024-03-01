@@ -13,7 +13,8 @@ Feel free to check out my [GitHub profile](https://github.com/anchanareghu) for 
 
 <h3 align="left">Contact Me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/anchana-reghu](https://www.linkedin.com/in/anchana-reghu-051790228/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchana-reghu" height="30" width="40" /></a>
+
+<a href="  https://www.linkedin.com/in/anchana-reghu-051790228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchana-reghu" height="30" width="40" /></a>
 </p>
 
 ## Looking for Opportunities
