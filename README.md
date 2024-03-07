@@ -1,4 +1,4 @@
-<div align="center"> <img  width="100%" src="https://github.com/anchanareghu/anchanareghu/assets/143755659/4ff59f41-ac6f-4718-82f7-5775723cb980"> </div>
+<div align="center"> <img  width="100%" src="https://github.com/anchanareghu/anchanareghu/assets/143755659/c4a13718-48f5-48bb-8077-8114a76f7f7e"> </div>
 
 ## About Me
 
