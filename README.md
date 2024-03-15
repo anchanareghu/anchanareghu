@@ -16,8 +16,7 @@ Feel free to check out my [GitHub profile](https://github.com/anchanareghu?tab=r
 
 I am currently open to exciting opportunities where I can contribute my skills and continue to grow as a developer. Whether it's internships, or full-time positions, I'm eager to explore new opportunities and challenges.
       
-<a href="https://linkedin.com/in/anchana-reghu-051790228" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anchana-reghu"/></a>  <a href="anchanareghu20@gmail.com" target="blank"><img align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="anchana-reghu" /></a>
+<a href="https://linkedin.com/in/anchana-reghu-051790228" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="anchana-reghu"/></a>  <a href = "mailto:anchanareghu20@gmail.com"><img align="center" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="anchana-reghu" /></a>
 </p>
-
 
 
