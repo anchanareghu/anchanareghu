@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm Anchana, a passionate developer with a keen interest in Android app development using Java. I specialize in crafting delightful user experiences through clean and efficient code. With a solid foundation in Android development and a knack for problem-solving, I strive to create innovative solutions that make a difference.
+Hi! I'm Anchana, a passionate developer with a keen interest in Android app development. I specialize in crafting delightful user experiences through clean and efficient code. With a solid foundation in Android development and a knack for problem-solving, I strive to create innovative solutions that make a difference.
 
 ## Skills
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png">  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png">  <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png">
